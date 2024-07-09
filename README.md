@@ -25,3 +25,4 @@
 
 **Details**: This feature provides options to adjust the content of single or multiple elements and shows how these adjustments impact the mechanical properties of the alloy.
 
+![image](https://github.com/Alloy-T800/Compression_property_software/assets/139616645/74f5ab1a-a90b-456d-8865-43181bee5bf0)
