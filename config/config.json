@@ -1,0 +1,23 @@
+{
+    "input_size": 30,
+    "attention_dim": 25,
+    "lr": 0.0005,
+    "weight_target1": 1,
+    "weight_target2": 1,
+    "dropout_rate_base": 0.3,
+    "dropout_rate_meta": 0.1,
+    "l2_lambda": 0.0001,
+    "epochs": 1500,
+    "num_base_models": 150,
+    "num_hidden_layers_base": 1,
+    "hidden_units_base": 30,
+    "num_hidden_layers_meta": 3,
+    "hidden_units_meta": 50,
+    "output_features_base": 11,
+
+    "X_scaler_path": "iterations_X_scaler.pkl",
+    "y_scaler_path": "iterations_y_scaler.pkl",
+
+    "Stacking.pth": "stacking.pth"
+
+}
