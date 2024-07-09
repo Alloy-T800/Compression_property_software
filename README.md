@@ -1,4 +1,4 @@
-# Compression_property_software
+# Compression-property-software
 # Deep learning-based predictor of compressive mechanical properties for high-entropy alloys software V1.0
 
 ## Introduction
